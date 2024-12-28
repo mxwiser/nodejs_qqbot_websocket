@@ -1,1 +1,1 @@
-## Nodejs implementation based on the official websocket API of QQ group robots
+## the official websocket API of QQ group robots based on Nodejs
